@@ -1,5 +1,11 @@
-express-skeleton
+# express-skeleton
 ================
 
-doing tutorials. 
-trying to understand node.js, git, express, handlebars, initializr, and some.
+## Tutorial Frameworks
+
+1. node.js
+2. git
+3. express
+4. handlebars
+5. initializr
+6. and some.
